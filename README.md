@@ -2,11 +2,13 @@
 A Simple Reverse Shell Listener written in C# that accepts connections to a TCP port and runs cmd.exe
 
 To Compile
-1. Open the SharpShell.sln file in Visual Studio -> Click "Build Solution"
+1. Open the SharpShell.sln file in Visual Studio
+2. Click "Build Solution"
+3. Note the path to your new .exe
 
 To Run
 1. Run the executable on the client you would like a remote command shell access to. By default the application listens on port 12345.
-2. Use a utility like netcat.exe to connect to your listener on port 12345
+2. Use a utility like netcat.exe (or write something in C#) to connect to your listener on port 12345
 **c:\> netcat.exe 10.0.0.55 12345**
 
 To Modify
