@@ -1,0 +1,7 @@
+C:\Users\dtarrant.LAB\source\repos\SharpShell\bin\Debug\SharpShell.exe.config
+C:\Users\dtarrant.LAB\source\repos\SharpShell\bin\Debug\SharpShell.exe
+C:\Users\dtarrant.LAB\source\repos\SharpShell\bin\Debug\SharpShell.pdb
+C:\Users\dtarrant.LAB\source\repos\SharpShell\obj\Debug\SharpShell.csproj.AssemblyReference.cache
+C:\Users\dtarrant.LAB\source\repos\SharpShell\obj\Debug\SharpShell.csproj.CoreCompileInputs.cache
+C:\Users\dtarrant.LAB\source\repos\SharpShell\obj\Debug\SharpShell.exe
+C:\Users\dtarrant.LAB\source\repos\SharpShell\obj\Debug\SharpShell.pdb
