@@ -7,11 +7,10 @@ To Compile
 To Run
 1. Run the executable on the client you would like a remote command shell access to. By default the application listens on port 12345.
 2. Use a utility like netcat.exe to connect to your listener on port 12345
-
 **c:\> netcat.exe 10.0.0.55 12345**
 
 To Modify
 1. Edit the source code "Program.cs" and change the default port number. Then click "Build Solution"
 
+![2023-09-28 11_49_14-Window](https://github.com/kpomeroy1979/SharpShell/assets/33209502/21489c9e-7f24-46a3-866a-d476d99e9a1c)
 
-![image](https://github.com/kpomeroy1979/SharpShell/assets/33209502/73fce603-9e24-46cd-92d5-963bd879c3cb)
